@@ -1,3 +1,7 @@
-streamlit
-pandas
-plotly
+streamlit>=1.18
+firebase-admin
+streamlit-option-menu
+streamlit-lottie
+openai
+Pillow
+requests
